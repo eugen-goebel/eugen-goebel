@@ -1,6 +1,6 @@
 # Hi, I'm Eugen
 
-Business Informatics (Wirtschaftsinformatik) student with a focus on AI-powered automation, data analytics, and full-stack development.
+Business Informatics (Wirtschaftsinformatik) student with a focus on AI-powered automation, data analytics, cybersecurity, and full-stack development.
 
 ## Projects
 
@@ -12,6 +12,12 @@ Business Informatics (Wirtschaftsinformatik) student with a focus on AI-powered 
 | [**Market Research Agent**](https://github.com/eugen-goebel/market-research-agent) | Automated market research — from web search to professional DOCX report in under 2 minutes | Python, Anthropic SDK, Pydantic |
 | [**Tech Trend Report Agent**](https://github.com/eugen-goebel/tech-trend-agent) | Generates comprehensive technology trend reports with market analysis and strategic outlook | Python, Anthropic SDK, python-docx |
 | [**Smart Document Q&A**](https://github.com/eugen-goebel/smart-doc-qa) | RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers | Python, ChromaDB, Streamlit, Anthropic SDK |
+
+### Cybersecurity
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Network Threat Analyzer**](https://github.com/eugen-goebel/network-threat-analyzer) | Multi-agent threat detection combining rule-based signatures with ML anomaly detection (Isolation Forest, LOF, One-Class SVM) | Python, scapy, scikit-learn, Streamlit |
 
 ### Data Science & Full-Stack
 
