@@ -19,10 +19,11 @@ Business Informatics (Wirtschaftsinformatik) student with a focus on AI-powered 
 |---------|-------------|------|
 | [**Network Threat Analyzer**](https://github.com/eugen-goebel/network-threat-analyzer) | Multi-agent threat detection combining rule-based signatures with ML anomaly detection (Isolation Forest, LOF, One-Class SVM) | Python, scapy, scikit-learn, Streamlit |
 
-### Data Science & Full-Stack
+### Data Engineering & Full-Stack
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**ShopFlow ETL Pipeline**](https://github.com/eugen-goebel/etl-pipeline) | Multi-agent ETL pipeline with star schema data warehouse, 15 SQL analytics queries (window functions, CTEs, NTILE), and Streamlit dashboard | Python, SQLAlchemy, SQLite, pandas, Streamlit |
 | [**Predictive Analytics Agent**](https://github.com/eugen-goebel/predictive-analytics-agent) | Automated ML pipeline — data profiling, preprocessing, model training, and evaluation report generation | Python, scikit-learn, Streamlit |
 | [**Personal Finance Tracker**](https://github.com/eugen-goebel/personal-finance-tracker) | Full-stack finance app with REST API, dashboard, and intelligent transaction categorization | Python, FastAPI, Streamlit, SQLAlchemy |
 
