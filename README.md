@@ -19,10 +19,11 @@ Business Informatics (Wirtschaftsinformatik) student with a focus on AI-powered 
 |---------|-------------|------|
 | [**Network Threat Analyzer**](https://github.com/eugen-goebel/network-threat-analyzer) | Multi-agent threat detection combining rule-based signatures with ML anomaly detection (Isolation Forest, LOF, One-Class SVM) | Python, scapy, scikit-learn, Streamlit |
 
-### Data Engineering & Full-Stack
+### Full-Stack & Data Engineering
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**Inventory Management Dashboard**](https://github.com/eugen-goebel/inventory-management) | Full-stack inventory system with React/TypeScript frontend, FastAPI REST API, real-time analytics dashboard | React, TypeScript, FastAPI, SQLAlchemy, Tailwind CSS |
 | [**ShopFlow ETL Pipeline**](https://github.com/eugen-goebel/etl-pipeline) | Multi-agent ETL pipeline with star schema data warehouse, 15 SQL analytics queries (window functions, CTEs, NTILE), and Streamlit dashboard | Python, SQLAlchemy, SQLite, pandas, Streamlit |
 | [**Predictive Analytics Agent**](https://github.com/eugen-goebel/predictive-analytics-agent) | Automated ML pipeline — data profiling, preprocessing, model training, and evaluation report generation | Python, scikit-learn, Streamlit |
 | [**Personal Finance Tracker**](https://github.com/eugen-goebel/personal-finance-tracker) | Full-stack finance app with REST API, dashboard, and intelligent transaction categorization | Python, FastAPI, Streamlit, SQLAlchemy |
@@ -30,6 +31,8 @@ Business Informatics (Wirtschaftsinformatik) student with a focus on AI-powered 
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
