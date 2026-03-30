@@ -40,4 +40,9 @@ Business Informatics (Wirtschaftsinformatik) student with a focus on AI-powered 
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/eugen-goebel)
+- [GitHub](https://github.com/eugen-goebel)
+
 ---
