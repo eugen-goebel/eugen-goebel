@@ -9,21 +9,21 @@ Business Informatics (Wirtschaftsinformatik) student with a focus on AI-powered 
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**BI Data Analyst Agent**](https://github.com/eugen-goebel/bi-data-analyst) | Multi-agent system that transforms CSV/Excel data into intelligence reports with charts and recommendations | Python, pandas, matplotlib, Anthropic SDK |
-| [**Market Research Agent**](https://github.com/eugen-goebel/market-research-agent) | Automated market research — from web search to professional DOCX report in under 2 minutes | Python, Anthropic SDK, Pydantic |
-| [**Tech Trend Report Agent**](https://github.com/eugen-goebel/tech-trend-agent) | Generates technology trend reports with market analysis and strategic outlook | Python, Anthropic SDK, python-docx |
+| [**Market Research Agent**](https://github.com/eugen-goebel/market-research-agent) | Automated market research with side-by-side competitor comparison (SWOT matrices, competitor landscape, trend analysis) — DOCX report in under 2 minutes | Python, Anthropic SDK, Pydantic |
+| [**Tech Trend Report Agent**](https://github.com/eugen-goebel/tech-trend-agent) | Technology trend reports with multi-technology comparison mode (2–3 techs side-by-side), market analysis, and strategic outlook | Python, Anthropic SDK, python-docx |
 | [**Smart Document Q&A**](https://github.com/eugen-goebel/smart-doc-qa) | RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers | Python, ChromaDB, Streamlit, Anthropic SDK |
 
 ### Cybersecurity
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Network Threat Analyzer**](https://github.com/eugen-goebel/network-threat-analyzer) | Multi-agent threat detection combining rule-based signatures with ML anomaly detection (Isolation Forest, LOF, One-Class SVM) | Python, scapy, scikit-learn, Streamlit |
+| [**Network Threat Analyzer**](https://github.com/eugen-goebel/network-threat-analyzer) | Multi-agent threat detection combining rule-based signatures with ML anomaly detection (Isolation Forest, LOF, One-Class SVM) — supports PCAP files, server logs, and live interface capture | Python, scapy, scikit-learn, Streamlit |
 
 ### Full-Stack & Data Engineering
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Inventory Management Dashboard**](https://github.com/eugen-goebel/inventory-management) | Full-stack inventory system with React/TypeScript frontend, FastAPI REST API, real-time analytics dashboard | React, TypeScript, FastAPI, SQLAlchemy, Tailwind CSS |
+| [**Inventory Management Dashboard**](https://github.com/eugen-goebel/inventory-management) | Full-stack inventory system with JWT authentication, role-based access control (admin/staff/viewer), React/TypeScript frontend, FastAPI REST API, and real-time analytics dashboard | React, TypeScript, FastAPI, SQLAlchemy, JWT, Tailwind CSS |
 | [**ShopFlow ETL Pipeline**](https://github.com/eugen-goebel/etl-pipeline) | Multi-agent ETL pipeline with star schema data warehouse, 15 SQL analytics queries (window functions, CTEs, NTILE), and Streamlit dashboard | Python, SQLAlchemy, SQLite, pandas, Streamlit |
 | [**Predictive Analytics Agent**](https://github.com/eugen-goebel/predictive-analytics-agent) | Automated ML pipeline — data profiling, preprocessing, model training, and evaluation report generation | Python, scikit-learn, Streamlit |
 | [**Personal Finance Tracker**](https://github.com/eugen-goebel/personal-finance-tracker) | Full-stack finance app with REST API, dashboard, and intelligent transaction categorization | Python, FastAPI, Streamlit, SQLAlchemy |
@@ -38,6 +38,7 @@ Business Informatics (Wirtschaftsinformatik) student with a focus on AI-powered 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## Contact
