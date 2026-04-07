@@ -2,6 +2,8 @@
 
 Business Informatics (Wirtschaftsinformatik) student with a focus on AI-powered automation, data analytics, cybersecurity, and full-stack development.
 
+Currently finishing my bachelor thesis on cyber-based drone defense. Open to working student, internship, and entry-level roles in data analytics, AI engineering, or cybersecurity (Frankfurt area or remote).
+
 ## Projects
 
 ### AI Agents & Automation
