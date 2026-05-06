@@ -29,7 +29,7 @@ Business Informatics (Wirtschaftsinformatik) student building production-grade p
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Smart Document Q&A**](https://github.com/eugen-goebel/smart-doc-qa) | RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers | Python, ChromaDB, Streamlit, Anthropic SDK |
+| [**Smart Document Q&A**](https://github.com/eugen-goebel/smart-doc-qa) — [🚀 **Live Demo**](https://eugen-goebel-smart-doc-qa-app-av3twb.streamlit.app/) | RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers | Python, ChromaDB, Streamlit, Anthropic SDK |
 | [**Market Research Agent**](https://github.com/eugen-goebel/market-research-agent) | Automated market research with side-by-side competitor comparison (SWOT matrices, competitor landscape, trend analysis) — DOCX report in under 2 minutes | Python, Anthropic SDK, Pydantic |
 | [**Tech Trend Report Agent**](https://github.com/eugen-goebel/tech-trend-agent) | Technology trend reports with multi-technology comparison mode, market analysis, and strategic outlook | Python, Anthropic SDK, python-docx |
 
