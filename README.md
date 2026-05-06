@@ -22,7 +22,7 @@ Business Informatics (Wirtschaftsinformatik) student building production-grade p
 |---------|-------------|------|
 | [**Inventory Management Dashboard**](https://github.com/eugen-goebel/inventory-management) | Full-stack inventory system with JWT authentication, role-based access control (admin/staff/viewer), React/TypeScript frontend, FastAPI REST API, and real-time analytics dashboard | React, TypeScript, FastAPI, SQLAlchemy, JWT, Tailwind CSS |
 | [**Personal Finance Tracker**](https://github.com/eugen-goebel/personal-finance-tracker) | Full-stack finance app with REST API, dashboard, intelligent transaction categorization, and bank-statement (MT940 / OFX) import | Python, FastAPI, Streamlit, SQLAlchemy |
-| [**ShopFlow ETL Pipeline**](https://github.com/eugen-goebel/etl-pipeline) | Multi-agent ETL pipeline with star schema data warehouse, 15 SQL analytics queries (window functions, CTEs, NTILE), and Streamlit dashboard | Python, SQLAlchemy, SQLite, pandas, Streamlit |
+| [**ShopFlow ETL Pipeline**](https://github.com/eugen-goebel/etl-pipeline) — [🚀 **Live Demo**](https://eugen-goebel-etl-pipeline-app-4shwqu.streamlit.app/) | Multi-agent ETL pipeline with star schema data warehouse, 15 SQL analytics queries (window functions, CTEs, NTILE), and Streamlit dashboard | Python, SQLAlchemy, SQLite, pandas, Streamlit |
 | [**BI Data Analyst Agent**](https://github.com/eugen-goebel/bi-data-analyst) | Multi-agent system that transforms CSV/Excel data into intelligence reports with charts and recommendations | Python, pandas, matplotlib, Anthropic SDK |
 
 ### AI Agents & LLM Applications
