@@ -3,7 +3,7 @@
 Business Informatics (Wirtschaftsinformatik) student building production-grade portfolio projects across AI agents, full-stack web apps, data engineering, and applied machine learning for cybersecurity.
 
 **Currently:** Finishing my bachelor thesis on cyber-based drone defense.
-**Open to:** Working student, internship, and entry-level roles — Data Analytics, AI Engineering, Backend, or Cybersecurity. Frankfurt area or remote.
+**Looking for:** **Full-time entry-level / junior positions** — Data Analytics, AI Engineering, Backend, or Cybersecurity. Frankfurt area or remote.
 
 ---
 
@@ -70,7 +70,7 @@ Business Informatics (Wirtschaftsinformatik) student building production-grade p
 
 ## Auf Deutsch
 
-Wirtschaftsinformatik-Student im letzten Semester (Bachelorarbeit zum Thema cyber-basierte Drohnenabwehr). Auf der Suche nach **Werkstudenten-, Praktikums- oder Junior-Rollen** im Bereich Datenanalyse, KI-Entwicklung, Backend oder Cybersecurity — Standort Frankfurt oder remote.
+Wirtschaftsinformatik-Student im letzten Semester (Bachelorarbeit zum Thema cyber-basierte Drohnenabwehr). Auf der Suche nach einer **Vollzeitstelle als Berufseinsteiger / Junior** im Bereich Datenanalyse, KI-Entwicklung, Backend oder Cybersecurity — Standort Frankfurt oder remote. **Kein Werkstudenten- oder Praktikumsplatz.**
 
 Mein Portfolio umfasst **Full-Stack-Webanwendungen** (FastAPI + React mit JWT-Auth), **Data-Engineering-Pipelines** (Star-Schema-Warehouse, 15 SQL-Analytics-Queries), **Multi-Agent-LLM-Systeme** (Anthropic SDK, RAG mit ChromaDB) sowie **angewandtes Machine Learning** (Anomalie-Erkennung mit Isolation Forest, LOF, One-Class SVM).
 
