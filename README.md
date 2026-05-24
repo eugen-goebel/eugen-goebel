@@ -20,25 +20,25 @@ Business Informatics (Wirtschaftsinformatik) student building production-grade p
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Inventory Management Dashboard**](https://github.com/eugen-goebel/inventory-management) | Full-stack inventory system with JWT authentication, role-based access control (admin/staff/viewer), React/TypeScript frontend, FastAPI REST API, and real-time analytics dashboard | React, TypeScript, FastAPI, SQLAlchemy, JWT, Tailwind CSS |
-| [**Personal Finance Tracker**](https://github.com/eugen-goebel/personal-finance-tracker) | Full-stack finance app with REST API, dashboard, intelligent transaction categorization, and bank-statement (MT940 / OFX) import | Python, FastAPI, Streamlit, SQLAlchemy |
-| [**ShopFlow ETL Pipeline**](https://github.com/eugen-goebel/etl-pipeline) — [🚀 **Live Demo**](https://eugen-goebel-etl-pipeline-app-4shwqu.streamlit.app/) | Multi-agent ETL pipeline with star schema data warehouse, 15 SQL analytics queries (window functions, CTEs, NTILE), and Streamlit dashboard | Python, SQLAlchemy, SQLite, pandas, Streamlit |
-| [**BI Data Analyst Agent**](https://github.com/eugen-goebel/bi-data-analyst) | Multi-agent system that transforms CSV/Excel data into intelligence reports with charts and recommendations | Python, pandas, matplotlib, Anthropic SDK |
+| [**Inventory Management Dashboard**](https://github.com/eugen-goebel/inventory-management) | Full-stack inventory system — JWT auth with RBAC (admin/staff/viewer), paginated + sortable product tables (7 sortable columns incl. joined supplier name), CSV import/export, toast notifications, React/TypeScript + FastAPI | React, TypeScript, FastAPI, SQLAlchemy, JWT, Tailwind CSS |
+| [**Personal Finance Tracker**](https://github.com/eugen-goebel/personal-finance-tracker) | Full-stack finance app — REST API, dashboard, intelligent transaction categorization, MT940 / OFX bank-statement import, and **savings goals** with progress tracking and required-monthly-contribution maths | Python, FastAPI, Streamlit, SQLAlchemy |
+| [**ShopFlow ETL Pipeline**](https://github.com/eugen-goebel/etl-pipeline) — [🚀 **Live Demo**](https://eugen-goebel-etl-pipeline-app-4shwqu.streamlit.app/) | Multi-agent ETL pipeline — star schema warehouse, 15 SQL analytics queries (window functions, CTEs, NTILE), and a **Pipeline Runs** observability tab tracking duration / success rate / phase timings | Python, SQLAlchemy, SQLite, pandas, Streamlit |
+| [**BI Data Analyst Agent**](https://github.com/eugen-goebel/bi-data-analyst) | Multi-agent system that transforms CSV/Excel data into intelligence reports — trends, correlations, outliers, seasonality, plus **ABC / Pareto analysis** to surface the 80/20 contributors | Python, pandas, matplotlib, Anthropic SDK |
 
 ### AI Agents & LLM Applications
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Smart Document Q&A**](https://github.com/eugen-goebel/smart-doc-qa) — [🚀 **Live Demo**](https://eugen-goebel-smart-doc-qa-app-av3twb.streamlit.app/) | RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers | Python, ChromaDB, Streamlit, Anthropic SDK |
-| [**Market Research Agent**](https://github.com/eugen-goebel/market-research-agent) | Automated market research with side-by-side competitor comparison (SWOT matrices, competitor landscape, trend analysis) — DOCX report in under 2 minutes | Python, Anthropic SDK, Pydantic |
-| [**Tech Trend Report Agent**](https://github.com/eugen-goebel/tech-trend-agent) | Technology trend reports with multi-technology comparison mode, market analysis, and strategic outlook | Python, Anthropic SDK, python-docx |
+| [**Smart Document Q&A**](https://github.com/eugen-goebel/smart-doc-qa) — [🚀 **Live Demo**](https://eugen-goebel-smart-doc-qa-app-av3twb.streamlit.app/) | RAG system for PDF / DOCX / TXT — source-grounded answers, persistent ChromaDB vector store, and **multi-turn conversation memory** so follow-up questions resolve against prior context | Python, ChromaDB, Streamlit, Anthropic SDK |
+| [**Market Research Agent**](https://github.com/eugen-goebel/market-research-agent) | Automated market research with side-by-side competitor comparison — SWOT, **Porter's Five Forces** with rating-coloured tables, trends, and DOCX or PDF output in under 2 minutes | Python, Anthropic SDK, Pydantic |
+| [**Tech Trend Report Agent**](https://github.com/eugen-goebel/tech-trend-agent) | Technology trend reports with multi-technology comparison mode, market analysis, strategic outlook, and a `--format docx/pdf/both` flag for portable distribution | Python, Anthropic SDK, python-docx, fpdf2 |
 
 ### Machine Learning & Cybersecurity
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Network Threat Analyzer**](https://github.com/eugen-goebel/network-threat-analyzer) | Multi-agent threat detection combining rule-based signatures with ML anomaly detection (Isolation Forest, LOF, One-Class SVM) — supports PCAP files, server logs, and live interface capture | Python, scapy, scikit-learn, Streamlit |
-| [**Predictive Analytics Agent**](https://github.com/eugen-goebel/predictive-analytics-agent) — [🚀 **Live Demo**](https://eugen-goebel-predictive-analytics-agent-app-l05zcc.streamlit.app/) | Automated ML pipeline — data profiling, preprocessing, model training, and evaluation report generation | Python, scikit-learn, Streamlit |
+| [**Network Threat Analyzer**](https://github.com/eugen-goebel/network-threat-analyzer) | Multi-agent threat detection combining rule-based signatures (port scans, DDoS, brute force, suspicious connections, **DNS tunneling**) with ML anomaly detection (Isolation Forest, LOF, One-Class SVM) — supports PCAP files, server logs, and live interface capture | Python, scapy, scikit-learn, Streamlit |
+| [**Predictive Analytics Agent**](https://github.com/eugen-goebel/predictive-analytics-agent) — [🚀 **Live Demo**](https://eugen-goebel-predictive-analytics-agent-app-l05zcc.streamlit.app/) | Automated ML pipeline — data profiling, preprocessing, hyperparameter tuning (GridSearchCV), and model evaluation with **model-agnostic permutation importance** so linear and KNN models also get interpretability charts | Python, scikit-learn, Streamlit |
 
 ---
 
@@ -72,6 +72,8 @@ Business Informatics (Wirtschaftsinformatik) student building production-grade p
 
 Wirtschaftsinformatik-Student im letzten Semester (Bachelorarbeit zum Thema cyber-basierte Drohnenabwehr). Auf der Suche nach einer **Vollzeitstelle als Berufseinsteiger / Junior** im Bereich Datenanalyse, KI-Entwicklung, Backend oder Cybersecurity — Standort Frankfurt oder remote. **Kein Werkstudenten- oder Praktikumsplatz.**
 
-Mein Portfolio umfasst **Full-Stack-Webanwendungen** (FastAPI + React mit JWT-Auth), **Data-Engineering-Pipelines** (Star-Schema-Warehouse, 15 SQL-Analytics-Queries), **Multi-Agent-LLM-Systeme** (Anthropic SDK, RAG mit ChromaDB) sowie **angewandtes Machine Learning** (Anomalie-Erkennung mit Isolation Forest, LOF, One-Class SVM).
+Mein Portfolio umfasst **Full-Stack-Webanwendungen** (FastAPI + React mit JWT-Auth, paginierte / sortierbare Tabellen, CSV-Import/Export), **Data-Engineering-Pipelines** (Star-Schema-Warehouse, 15 SQL-Analytics-Queries, Pipeline-Observability-Dashboard), **Multi-Agent-LLM-Systeme** (Anthropic SDK, RAG mit ChromaDB und Mehrturn-Konversationen) sowie **angewandtes Machine Learning** (Anomalie-Erkennung mit Isolation Forest, LOF, One-Class SVM; modell-agnostische Permutation Importance für Interpretierbarkeit).
+
+Zusätzlich klassische **Strategie-Frameworks** in den Reporting-Agents — SWOT, Porter's Five Forces, ABC/Pareto-Analyse — als strukturierter Output statt Freitext.
 
 Bei Interesse einfach per E-Mail melden.
