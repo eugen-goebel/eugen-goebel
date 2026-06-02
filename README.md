@@ -1,8 +1,8 @@
 # Hi, I'm Eugen
 
-Business Informatics (Wirtschaftsinformatik) student building production-grade portfolio projects across AI agents, full-stack web apps, data engineering, and applied machine learning for cybersecurity.
+Business Informatics (Wirtschaftsinformatik) graduate building production-grade portfolio projects across AI agents, full-stack web apps, data engineering, and applied machine learning for cybersecurity.
 
-**Currently:** Finishing my bachelor thesis on cyber-based drone defense.
+**Just graduated:** B.Sc. Business Informatics (Wirtschaftsinformatik), 2026 — bachelor thesis on a *digital-immune-system* approach to defending against drone-based cyberattacks.
 **Looking for:** **Full-time entry-level / junior positions** — Data Analytics, AI Engineering, Backend, or Cybersecurity. Frankfurt area or remote.
 
 ---
@@ -70,7 +70,7 @@ Business Informatics (Wirtschaftsinformatik) student building production-grade p
 
 ## Auf Deutsch
 
-Wirtschaftsinformatik-Student im letzten Semester (Bachelorarbeit zum Thema cyber-basierte Drohnenabwehr). Auf der Suche nach einer **Vollzeitstelle als Berufseinsteiger / Junior** im Bereich Datenanalyse, KI-Entwicklung, Backend oder Cybersecurity — Standort Frankfurt oder remote. **Kein Werkstudenten- oder Praktikumsplatz.**
+Frisch abgeschlossener **Bachelor of Science in Wirtschaftsinformatik** (Bachelorarbeit: Abwehr drohnenbasierter Cyberangriffe nach dem Paradigma des digitalen Immunsystems). Auf der Suche nach einer **Vollzeitstelle als Berufseinsteiger / Junior** im Bereich Datenanalyse, KI-Entwicklung, Backend oder Cybersecurity — Standort Frankfurt oder remote. **Kein Werkstudenten- oder Praktikumsplatz.**
 
 Mein Portfolio umfasst **Full-Stack-Webanwendungen** (FastAPI + React mit JWT-Auth, paginierte / sortierbare Tabellen, CSV-Import/Export), **Data-Engineering-Pipelines** (Star-Schema-Warehouse, 15 SQL-Analytics-Queries, Pipeline-Observability-Dashboard), **Multi-Agent-LLM-Systeme** (Anthropic SDK, RAG mit ChromaDB und Mehrturn-Konversationen) sowie **angewandtes Machine Learning** (Anomalie-Erkennung mit Isolation Forest, LOF, One-Class SVM; modell-agnostische Permutation Importance für Interpretierbarkeit).
 
