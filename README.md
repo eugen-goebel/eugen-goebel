@@ -1,6 +1,6 @@
 # Hi, I'm Eugen
 
-Business Informatics (Wirtschaftsinformatik) graduate building production-grade portfolio projects across AI agents, full-stack web apps, data engineering, and applied machine learning for cybersecurity.
+Business Informatics (Wirtschaftsinformatik) graduate building production-grade portfolio projects across quantitative finance and real-time data systems, AI agents, full-stack web apps, data engineering, and applied machine learning for cybersecurity.
 
 **Education:** B.Sc. Business Informatics (Wirtschaftsinformatik), graduated 2026. Currently pursuing an M.Sc. in Wirtschaftsinformatik part-time at FernUniversität in Hagen while available for full-time work. Bachelor thesis on a digital immune system approach to defending against drone-based cyberattacks.
 **Looking for:** **Full-time entry-level / junior positions** in Data Analytics, AI Engineering, Backend, or Cybersecurity. Frankfurt area or remote.
@@ -15,6 +15,13 @@ Business Informatics (Wirtschaftsinformatik) graduate building production-grade 
 ---
 
 ## Featured Projects
+
+### Quantitative Finance & Real-Time Systems
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Portfolio Risk Analytics**](https://github.com/eugen-goebel/portfolio-risk-analytics) | Market data platform: ingests real daily prices (Yahoo, ECB), computes risk and tail-risk metrics (volatility, Sharpe, drawdown, VaR, expected shortfall), benchmark analytics, Markowitz optimization, **volatility forecasting with a walk-forward model comparison**, Monte Carlo simulation and drift monitoring, served through a dashboard, REST API and a scheduled live-data pipeline | Python, FastAPI, PostgreSQL, SQLAlchemy, pandas, NumPy, Streamlit, Docker |
+| [**Market Stream Monitor**](https://github.com/eugen-goebel/market-stream-monitor) | Real-time monitor: consumes live trades from the Coinbase and Binance websocket feeds through one provider abstraction, folds them into streaming one-minute bars with VWAP, and raises **anomaly alerts** on volume spikes, price jumps, VWAP dislocations and trade-rate bursts, with a live dashboard and offline replay | Python, asyncio, websockets, PostgreSQL, SQLAlchemy, Streamlit, Docker |
 
 ### Full-Stack & Data Engineering
 
