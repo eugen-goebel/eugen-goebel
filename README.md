@@ -49,6 +49,18 @@ Business Informatics (Wirtschaftsinformatik) graduate building production-grade 
 
 ---
 
+## Open Source Contributions
+
+Code merged into widely used Python libraries through their normal review process:
+
+| Project | Contribution |
+|---------|-------------|
+| [py-pdf/fpdf2](https://github.com/py-pdf/fpdf2/pull/1866) | Preserve leading spaces in `<pre>` blocks when rendering HTML |
+| [plotly/plotly.py](https://github.com/plotly/plotly.py/pull/5625) | Raise a clear error for unsupported marginal plot types |
+| [secdev/scapy](https://github.com/secdev/scapy/pull/5022) | Surface the libpcap error when a BPF filter fails to compile |
+
+---
+
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -82,5 +94,7 @@ Frisch abgeschlossener **Bachelor of Science in Wirtschaftsinformatik** (Bachelo
 Mein Portfolio umfasst **Full-Stack-Webanwendungen** (FastAPI + React mit JWT-Auth, paginierte / sortierbare Tabellen, CSV-Import/Export), **Data-Engineering-Pipelines** (Star-Schema-Warehouse, 15 SQL-Analytics-Queries, Pipeline-Observability-Dashboard), **Multi-Agent-LLM-Systeme** (Anthropic SDK, RAG mit ChromaDB und Mehrturn-Konversationen) sowie **angewandtes Machine Learning** (Anomalie-Erkennung mit Isolation Forest, LOF, One-Class SVM und modell-agnostische Permutation Importance für Interpretierbarkeit).
 
 Zusätzlich klassische **Strategie-Frameworks** in den Reporting-Agents (SWOT, Porter's Five Forces, ABC/Pareto-Analyse) als strukturierter Output statt Freitext.
+
+Außerdem habe ich zu etablierten Open-Source-Bibliotheken beigetragen (fpdf2, plotly, scapy), jeweils über den regulären Review-Prozess gemergt.
 
 Bei Interesse einfach per E-Mail melden.
