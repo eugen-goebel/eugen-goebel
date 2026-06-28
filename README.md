@@ -56,8 +56,10 @@ Code merged into widely used Python libraries through their normal review proces
 | Project | Contribution |
 |---------|-------------|
 | [py-pdf/fpdf2](https://github.com/py-pdf/fpdf2/pull/1866) | Preserve leading spaces in `<pre>` blocks when rendering HTML |
+| [py-pdf/fpdf2](https://github.com/py-pdf/fpdf2/pull/1870) | Add an `optional_content()` context manager for screen-only / print-only PDF layers |
 | [plotly/plotly.py](https://github.com/plotly/plotly.py/pull/5625) | Raise a clear error for unsupported marginal plot types |
 | [secdev/scapy](https://github.com/secdev/scapy/pull/5022) | Surface the libpcap error when a BPF filter fails to compile |
+| [rthalley/dnspython](https://github.com/rthalley/dnspython/pull/1276) | Render unnamed DNS flag bits instead of dropping them |
 
 ---
 
