@@ -20,7 +20,7 @@ Business Informatics (Wirtschaftsinformatik) graduate building production-grade 
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Portfolio Risk Analytics**](https://github.com/eugen-goebel/portfolio-risk-analytics) | Market data platform: ingests real daily prices (Yahoo, ECB), computes risk and tail-risk metrics (volatility, Sharpe, drawdown, VaR, expected shortfall), benchmark analytics, Markowitz optimization, **volatility forecasting with a walk-forward model comparison**, Monte Carlo simulation and drift monitoring, served through a dashboard, REST API and a scheduled live-data pipeline | Python, FastAPI, PostgreSQL, SQLAlchemy, pandas, NumPy, Streamlit, Docker |
+| [**Portfolio Risk Analytics**](https://github.com/eugen-goebel/portfolio-risk-analytics) ([🚀 **Live Demo**](https://eugen-goebel-portfolio-risk-analytics.streamlit.app/)) | Market data platform: ingests real daily prices (Yahoo, ECB), computes risk and tail-risk metrics (volatility, Sharpe, drawdown, VaR, expected shortfall), benchmark analytics, Markowitz optimization, **volatility forecasting with a walk-forward model comparison**, Monte Carlo simulation and drift monitoring, served through a dashboard, REST API and a scheduled live-data pipeline | Python, FastAPI, PostgreSQL, SQLAlchemy, pandas, NumPy, Streamlit, Docker |
 | [**Market Stream Monitor**](https://github.com/eugen-goebel/market-stream-monitor) | Real-time monitor: consumes live trades from the Coinbase and Binance websocket feeds through one provider abstraction, folds them into streaming one-minute bars with VWAP, and raises **anomaly alerts** on volume spikes, price jumps, VWAP dislocations and trade-rate bursts, with a live dashboard and offline replay | Python, asyncio, websockets, PostgreSQL, SQLAlchemy, Streamlit, Docker |
 
 ### Full-Stack & Data Engineering
@@ -60,6 +60,7 @@ Code merged into widely used Python libraries through their normal review proces
 | [plotly/plotly.py](https://github.com/plotly/plotly.py/pull/5625) | Raise a clear error for unsupported marginal plot types |
 | [secdev/scapy](https://github.com/secdev/scapy/pull/5022) | Surface the libpcap error when a BPF filter fails to compile |
 | [rthalley/dnspython](https://github.com/rthalley/dnspython/pull/1276) | Render unnamed DNS flag bits instead of dropping them |
+| [python-websockets/websockets](https://github.com/python-websockets/websockets/pull/1719) | Add a `text` argument to `broadcast()` so callers can force the frame type |
 
 ---
 
@@ -97,6 +98,6 @@ Mein Portfolio umfasst **Full-Stack-Webanwendungen** (FastAPI + React mit JWT-Au
 
 Zusätzlich klassische **Strategie-Frameworks** in den Reporting-Agents (SWOT, Porter's Five Forces, ABC/Pareto-Analyse) als strukturierter Output statt Freitext.
 
-Außerdem habe ich zu etablierten Open-Source-Bibliotheken beigetragen (fpdf2, plotly, scapy), jeweils über den regulären Review-Prozess gemergt.
+Außerdem habe ich zu etablierten Open-Source-Bibliotheken beigetragen (fpdf2, plotly, scapy, dnspython, websockets), jeweils über den regulären Review-Prozess gemergt.
 
 Bei Interesse einfach per E-Mail melden.
