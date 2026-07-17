@@ -20,6 +20,9 @@ APPS = {
     "predictive-analytics-agent": (
         "https://eugen-goebel-predictive-analytics-agent-app-l05zcc.streamlit.app/"
     ),
+    "portfolio-risk-analytics": (
+        "https://eugen-goebel-portfolio-risk-analytics.streamlit.app/"
+    ),
 }
 
 WAKE_BUTTON_TEXT = "get this app back up"
