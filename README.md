@@ -44,7 +44,7 @@ Business Informatics (Wirtschaftsinformatik) graduate building production-grade 
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Network Threat Analyzer**](https://github.com/eugen-goebel/network-threat-analyzer) | Multi-agent threat detection combining rule-based signatures (port scans, DDoS, brute force, suspicious connections, **DNS tunneling**) with ML anomaly detection (Isolation Forest, LOF, One-Class SVM). Supports PCAP files, server logs, and live interface capture | Python, scapy, scikit-learn, Streamlit |
+| [**Network Threat Analyzer**](https://github.com/eugen-goebel/network-threat-analyzer) ([🚀 **Live Demo**](https://eugen-goebel-network-threat-analyzer.streamlit.app/)) | Multi-agent threat detection combining rule-based signatures (port scans, DDoS, brute force, suspicious connections, **DNS tunneling**) with ML anomaly detection (Isolation Forest, LOF, One-Class SVM). Supports PCAP files, server logs, and live interface capture | Python, scapy, scikit-learn, Streamlit |
 | [**Predictive Analytics Agent**](https://github.com/eugen-goebel/predictive-analytics-agent) ([🚀 **Live Demo**](https://eugen-goebel-predictive-analytics-agent-app-l05zcc.streamlit.app/)) | Automated ML pipeline: data profiling, preprocessing, hyperparameter tuning (GridSearchCV), and model evaluation with **model-agnostic permutation importance** so linear and KNN models also get interpretability charts | Python, scikit-learn, Streamlit |
 
 ---
