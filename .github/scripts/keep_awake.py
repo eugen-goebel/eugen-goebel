@@ -23,6 +23,9 @@ APPS = {
     "portfolio-risk-analytics": (
         "https://eugen-goebel-portfolio-risk-analytics.streamlit.app/"
     ),
+    "network-threat-analyzer": (
+        "https://eugen-goebel-network-threat-analyzer.streamlit.app/"
+    ),
 }
 
 WAKE_BUTTON_TEXT = "get this app back up"
