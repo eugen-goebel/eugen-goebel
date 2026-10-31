@@ -1,9 +1,8 @@
 # Hi, I'm Eugen
 
-Business Informatics (Wirtschaftsinformatik) graduate building production-grade portfolio projects across quantitative finance and real-time data systems, AI agents, full-stack web apps, data engineering, and applied machine learning for cybersecurity.
+I work in IT audit for the banking sector. Outside of work I build production-grade portfolio projects across quantitative finance and real-time data systems, AI agents, full-stack web apps, data engineering, and applied machine learning for cybersecurity.
 
-**Education:** B.Sc. Business Informatics (Wirtschaftsinformatik), graduated 2026. Currently pursuing an M.Sc. in Wirtschaftsinformatik part-time at FernUniversität in Hagen while available for full-time work. Bachelor thesis on a digital immune system approach to defending against drone-based cyberattacks.
-**Looking for:** **Full-time entry-level / junior positions** in Data Analytics, AI Engineering, Backend, or Cybersecurity. Frankfurt area or remote.
+**Education:** B.Sc. Business Informatics (Wirtschaftsinformatik), graduated 2026. Currently pursuing an M.Sc. in Wirtschaftsinformatik part-time at FernUniversität in Hagen. Bachelor thesis on a digital immune system approach to defending against drone-based cyberattacks.
 
 ---
 
@@ -54,6 +53,9 @@ Code merged into widely used Python libraries through their normal review proces
 | [secdev/scapy](https://github.com/secdev/scapy/pull/5022) | Surface the libpcap error when a BPF filter fails to compile |
 | [rthalley/dnspython](https://github.com/rthalley/dnspython/pull/1276) | Render unnamed DNS flag bits instead of dropping them |
 | [python-websockets/websockets](https://github.com/python-websockets/websockets/pull/1719) | Add a `text` argument to `broadcast()` so callers can force the frame type |
+| [secdev/scapy](https://github.com/secdev/scapy/pull/5046) | Reap the tcpdump prefilter subprocess when sniffing offline |
+| [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels/pull/9902) | Attach MLE fit attributes to the results instance so they show up in `dir()` |
+| [fortra/impacket](https://github.com/fortra/impacket/pull/2219) | Fix an `AttributeError` when parsing a credential with auth data |
 
 ---
 
@@ -85,12 +87,14 @@ Code merged into widely used Python libraries through their normal review proces
 
 ## Auf Deutsch
 
-Frisch abgeschlossener **Bachelor of Science in Wirtschaftsinformatik** (Bachelorarbeit: Abwehr drohnenbasierter Cyberangriffe nach dem Paradigma des digitalen Immunsystems). Aktuell mache ich berufsbegleitend meinen Master (M.Sc. Wirtschaftsinformatik) an der FernUni Hagen und bin in Vollzeit verfügbar. Auf der Suche nach einer **Vollzeitstelle als Berufseinsteiger / Junior** im Bereich Datenanalyse, KI-Entwicklung, Backend oder Cybersecurity. Standort: Frankfurt oder remote. **Kein Werkstudenten- oder Praktikumsplatz.**
+Ich arbeite in der IT-Prüfung im Bankensektor. Die Projekte hier baue ich in meiner Freizeit.
+
+Den **Bachelor in Wirtschaftsinformatik** habe ich 2026 abgeschlossen. In der Bachelorarbeit ging es um die Abwehr drohnenbasierter Cyberangriffe nach dem Paradigma des digitalen Immunsystems. Den Master mache ich berufsbegleitend an der FernUni Hagen.
 
 Mein Portfolio umfasst **Full-Stack-Webanwendungen** (FastAPI + React mit JWT-Auth, paginierte / sortierbare Tabellen, CSV-Import/Export), **Data-Engineering-Pipelines** (Star-Schema-Warehouse, 15 SQL-Analytics-Queries, Pipeline-Observability-Dashboard), **Multi-Agent-LLM-Systeme** (Anthropic SDK, RAG mit ChromaDB und Mehrturn-Konversationen) sowie **angewandtes Machine Learning** (Anomalie-Erkennung mit Isolation Forest, LOF, One-Class SVM und modell-agnostische Permutation Importance für Interpretierbarkeit).
 
 Zusätzlich klassische **Strategie-Frameworks** in den Reporting-Agents (SWOT, Porter's Five Forces, ABC/Pareto-Analyse) als strukturierter Output statt Freitext.
 
-Außerdem habe ich zu etablierten Open-Source-Bibliotheken beigetragen (fpdf2, plotly, scapy, dnspython, websockets), jeweils über den regulären Review-Prozess gemergt.
+Außerdem habe ich zu etablierten Open-Source-Bibliotheken beigetragen (fpdf2, plotly, scapy, dnspython, websockets, statsmodels, impacket), jeweils über den regulären Review-Prozess gemergt.
 
-Bei Interesse einfach per E-Mail melden.
+Fragen zu den Projekten beantworte ich gern per E-Mail.
