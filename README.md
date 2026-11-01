@@ -8,6 +8,12 @@ I work in IT audit for the banking sector. Outside of work I build production-gr
 
 ## Featured Projects
 
+### IT Audit & Compliance
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Audit Workbench**](https://github.com/eugen-goebel/audit-workbench) | Data-driven IT audit tests for banks on a synthetic bank with injected issues. Access review and **segregation of duties**, including conflicts that only appear through nested roles, with the access path behind every finding. Each finding is tied to SHA-256 hashes of its input files, and CI checks every rule against the injected ground truth | Python, pandas, networkx, pydantic, Typer |
+
 ### Quantitative Finance & Real-Time Systems
 
 | Project | Description | Tech |
