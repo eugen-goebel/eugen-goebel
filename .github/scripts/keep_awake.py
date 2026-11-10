@@ -26,6 +26,7 @@ APPS = {
     "network-threat-analyzer": (
         "https://eugen-goebel-network-threat-analyzer.streamlit.app/"
     ),
+    "audit-workbench": "https://audit-workbench.streamlit.app/",
 }
 
 WAKE_BUTTON_TEXT = "get this app back up"
